@@ -1,0 +1,2 @@
+C:\Users\123\Desktop\angrybirds\obj\Debug\AngryBirds.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\angrybirds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
